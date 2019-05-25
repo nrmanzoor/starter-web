@@ -3,12 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <role> -- <twitter
+	should look diffenerent in working directory>
 
 # THANKS
 
     <name>
-
+changing 3ird time in working.
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
